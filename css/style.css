@@ -210,35 +210,35 @@ aside {
 	font-family:'OpenSans-Bold', sans-serif;
 }
 .bbc {
-	width:150px;
-	height:100px;
+	width:140px;
+	height:140px;
 	position: absolute;
-	right:25em;
-	top:15em;
+	right:34em;
+	top:9em;
 	z-index: 99999;
 }
 .suria {
-	width:500px;
-	height:500px;
+	width:140px;
+	height:140px;
 	position: absolute;
-	right:46em;
-	top:19em;
+	right:25em;
+	top:13em;
 	z-index: 99999;
 }
 .ummah {
-	width:500px;
-	height:500px;
+	width:140px;
+	height:140px;
 	position: absolute;
-	right:75em;
-	top:21em;
+	right:42.5em;
+	top:13em;
 	z-index: 99999;
 }
 .twitter {
-	width:500px;
-	height:500px;
+	width:140px;
+	height:140px;
 	position: absolute;
-	right:60em;
-	top:29em;
+	right:34em;
+	top:19em;
 	z-index: 99999;
 }
 #mainnav {
