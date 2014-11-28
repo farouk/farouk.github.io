@@ -210,11 +210,11 @@ aside {
 	font-family:'OpenSans-Bold', sans-serif;
 }
 .bbc {
-	width:500px;
-	height:500px;
+	width:150px;
+	height:100px;
 	position: absolute;
-	right:60em;
-	top:12em;
+	right:25em;
+	top:15em;
 	z-index: 99999;
 }
 .suria {
