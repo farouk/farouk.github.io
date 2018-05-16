@@ -1,6 +1,6 @@
 ### Thanks for visiting!
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+![Branching](/assets/images/me.jpeg)
 
 
 
